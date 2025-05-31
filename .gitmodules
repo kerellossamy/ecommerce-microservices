@@ -1,0 +1,9 @@
+[submodule "users-service"]
+	path = users-service
+	url = https://github.com/kerellossamy/users-service.git
+[submodule "products-service"]
+	path = products-service
+	url = https://github.com/kerellossamy/products-service.git
+[submodule "orders-service"]
+	path = orders-service
+	url = https://github.com/kerellossamy/orders-service.git
